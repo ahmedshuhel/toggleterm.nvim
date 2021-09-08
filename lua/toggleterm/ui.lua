@@ -196,7 +196,7 @@ end
 local split_commands = {
   horizontal = {
     existing = "rightbelow vsplit",
-    new = "botright split",
+    new = "rightbelow split",
     resize = "resize",
   },
   vertical = {
